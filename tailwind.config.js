@@ -9,6 +9,9 @@ module.exports = {
       fontFamily: {
         raleway: ["Raleway", "sans-serif"],
       },
+      colors: {
+        'blue-purple': '#5651e5'
+      }
     },
   },
   plugins: [],
