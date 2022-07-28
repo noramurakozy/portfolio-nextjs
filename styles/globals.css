@@ -32,3 +32,9 @@
     @apply shadow-xl shadow-gray-400 rounded-xl uppercase bg-gradient-to-r from-blue-purple to-[#709dff] text-white
   }
 }
+
+@layer components {
+  .sub-header {
+    @apply uppercase text-xl tracking-widest text-blue-purple
+  }
+}
